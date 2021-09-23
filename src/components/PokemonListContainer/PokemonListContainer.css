@@ -1,0 +1,20 @@
+.pokemon-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card-title{
+    text-transform: capitalize;
+}
+
+.card-text{
+    list-style: none;
+}
+
+.pokemon-type{
+    text-transform: capitalize;
+    margin: 5px 0;
+}
